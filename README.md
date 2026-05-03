@@ -3,14 +3,14 @@
 AI-based hand gesture control system using OpenCV and MediaPipe for real-time interaction.
 
 ## Features
-- Real-time hand gesture recognition  
-- Uses camera input  
-- Enables touchless interaction  
+- Real-time hand gesture recognition
+- Uses camera input
+- Enables touchless interaction
 
 ## Technologies Used
-- Python  
-- OpenCV  
-- MediaPipe  
+- Python
+- OpenCV
+- MediaPipe
 
 ## How to Run
 ```bash
