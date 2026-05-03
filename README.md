@@ -17,3 +17,6 @@ AI-based hand gesture control system using OpenCV and MediaPipe for real-time in
 pip install opencv-python mediapipe
 python main.py
 ```
+
+## Author
+Nishitha G
